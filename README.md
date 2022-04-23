@@ -1,7 +1,9 @@
 # LearningToCode
 My first repo for learning how to code.
+(Inserting something to have a change)
+---
 - Among many other things I have yet to learn, I need to learn *Markdown*
-- Other things I hope to learn are:
+- Other things I need to figure out:
  1. Do I still need a separate IDE?
  2. If not, can I use any language in GitHub?
  3. Java? Groovy? JavaScript?
